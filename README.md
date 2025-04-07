@@ -1,7 +1,7 @@
 ## Hi, I'm Karson Mellott
 
-<h2>Student at Fort Hays Tech | Northwest</h2>
-<h2>Contact Me At:</h2>
+<p>Student at Fort Hays Tech | Northwest</p>
+<p>Contact Me At:</p>
 
 <!--
 Here are some ideas to get you started:
