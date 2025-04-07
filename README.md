@@ -3,6 +3,12 @@
 <p>Student at Fort Hays Tech | Northwest</p>
 <p>Contact Me At:</p>
 
+<pre>
+  const karson = {
+  
+  }
+</pre>
+
 <!--
 Here are some ideas to get you started:
 
