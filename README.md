@@ -7,8 +7,8 @@
 
 <p>More About Me</p>
 <pre>
-  const karson = {
-  
+  const name = {
+    let languages = [Typescript, HTML, CSS, Solidity,]
   }
 </pre>
 
