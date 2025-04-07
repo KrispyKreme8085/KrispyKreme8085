@@ -3,6 +3,9 @@
 <p>Student at Fort Hays Tech | Northwest</p>
 <p>Contact Me At:</p>
 
+<br />
+
+<p>More About Me</p>
 <pre>
   const karson = {
   
