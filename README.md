@@ -10,6 +10,8 @@
 ```typescript
 const karson = {
   let languages = [Typescript, JavaScript, HTML, CSS, Solidity, SwiftUI]
+  let tools = [Git, Raspberry Pi, Figma, Postman]
+  let backend = [MongoDB, Docker]
 }
 ```
 
