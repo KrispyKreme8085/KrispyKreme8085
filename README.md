@@ -7,7 +7,7 @@
 
 <p>More About Me</p>
 
-```ruby
+```typescript
 const name = {
   let languages = [Typescript, HTML, CSS, Solidity,]
 }
