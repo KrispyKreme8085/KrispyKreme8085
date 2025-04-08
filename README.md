@@ -6,10 +6,11 @@
 <br />
 
 <p>More About Me</p>
-```java
-  const name = {
-    let languages = [Typescript, HTML, CSS, Solidity,]
-  }
+
+```ruby
+const name = {
+  let languages = [Typescript, HTML, CSS, Solidity,]
+}
 ```
 
 <!--
