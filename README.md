@@ -8,8 +8,8 @@
 <p>More About Me</p>
 
 ```typescript
-const name = {
-  let languages = [Typescript, HTML, CSS, Solidity,]
+const karson = {
+  let languages = [Typescript, JavaScript, HTML, CSS, Solidity, SwiftUI]
 }
 ```
 
