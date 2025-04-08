@@ -9,9 +9,13 @@
 
 ```typescript
 const karson = {
-  let languages = [Typescript, JavaScript, HTML, CSS, Solidity, SwiftUI]
+  let languages = [Typescript, JavaScript, HTML, CSS, Solidity, Swift]
   let tools = [Git, Raspberry Pi, Figma, Postman]
-  let backend = [MongoDB, Docker]
+  let database = [MongoDB, Docker]
+  let backend = [Express, NodeJS, Deno]
+  let frontend = [NextJS, React, Tailwind]
+  let mobile = [SwiftUI]
+  let certifications = [SwiftUI] 
 }
 ```
 
