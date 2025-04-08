@@ -6,11 +6,11 @@
 <br />
 
 <p>More About Me</p>
-<pre>
+```java
   const name = {
     let languages = [Typescript, HTML, CSS, Solidity,]
   }
-</pre>
+```
 
 <!--
 Here are some ideas to get you started:
