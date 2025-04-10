@@ -22,7 +22,7 @@ const karson = {
 
 <p>Connect With Me:</p>
 <div style={{ display: "flex", flexDirection: "row" }}>
-  <img src="downloads/linkedin.png" alt="LinkedIn" />
+  ![linkedin](https://github.com/user-attachments/assets/2b173ddc-2bdb-4bdc-be83-a876083ceefc)
 </div>
 
 <!--
