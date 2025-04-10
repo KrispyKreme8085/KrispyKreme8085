@@ -22,12 +22,15 @@ const karson = {
 
 <p>Connect With Me:</p>
 <p style="display: flex; align-items: center; gap: 10px;">
-  <img
-    src="https://github.com/user-attachments/assets/2b173ddc-2bdb-4bdc-be83-a876083ceefc"
-    alt="LinkedIn"
-    style="width: 40px; height: 40px;"
-  />
+  <a href="https://www.linkedin.com/in/karson-mellott-839930327/" target="linkedin">
+    <img
+      src="https://github.com/user-attachments/assets/2b173ddc-2bdb-4bdc-be83-a876083ceefc"
+      alt="LinkedIn"
+      style="width: 40px; height: 40px;"
+    />
+  </a>
 </p>
+
 
 
 
