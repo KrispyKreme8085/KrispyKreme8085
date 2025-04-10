@@ -5,15 +5,15 @@
 
 <p>More About Me</p>
 
-```typescript
+```ruby
 const karson = {
-  let languages = [Typescript, JavaScript, HTML, CSS, Solidity, Swift]
-  let tools = [Git, Raspberry Pi, Figma, Postman]
-  let database = [MongoDB, Docker]
-  let backend = [Express, NodeJS, Deno]
-  let frontend = [NextJS, React, Tailwind]
-  let mobile = [SwiftUI]
-  let certifications = [SwiftUI] 
+  languages = [Typescript, JavaScript, HTML, CSS, Solidity, Swift]
+  tools = [Git, Raspberry Pi, Figma, Postman]
+  database = [MongoDB, Docker]
+  backend = [Express, NodeJS, Deno]
+  frontend = [NextJS, React, Tailwind]
+  mobile = [SwiftUI]
+  certifications = [SwiftUI] 
 }
 ```
 <!--
