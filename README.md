@@ -5,7 +5,7 @@
 
 <p>More About Me</p>
 
-```typescript
+```javascript
 const karson = {
   languages = [Typescript, JavaScript, HTML, CSS, Solidity, Swift]
   tools = [Git, Raspberry Pi, Figma, Postman]
