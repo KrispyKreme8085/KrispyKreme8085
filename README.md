@@ -1,8 +1,6 @@
 ## Hi, I'm Karson Mellott
 
 <p>Student at Fort Hays Tech | Northwest</p>
-<p>Contact Me At:</p>
-
 <br />
 
 <p>More About Me</p>
@@ -18,6 +16,8 @@ const karson = {
   let certifications = [SwiftUI] 
 }
 ```
+
+<p>Connect With Me:</p>
 
 <!--
 Here are some ideas to get you started:
