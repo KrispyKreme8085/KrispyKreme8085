@@ -21,13 +21,14 @@ const karson = {
 -->
 
 <p>Connect With Me:</p>
-<div style={{ display: "flex", flexDirection: "row" }}>
+<p style="display: flex; align-items: center; gap: 10px;">
   <img
     src="https://github.com/user-attachments/assets/2b173ddc-2bdb-4bdc-be83-a876083ceefc"
     alt="LinkedIn"
-    style={{ width: "10px", height: "10px", marginRight: "10px" }}
+    style="width: 40px; height: 40px;"
   />
-</div>
+</p>
+
 
 
 <!--
