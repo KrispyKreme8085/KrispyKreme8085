@@ -21,8 +21,8 @@ const karson = {
 -->
 
 <p>Connect With Me:</p>
-<div style={{display: "flex", flex-direction: "row"}}>
-  ![screenshot](downloads/linkedin.png)
+<div style={{ display: "flex", flexDirection: "row" }}>
+  <img src="downloads/linkedin.png" alt="LinkedIn" />
 </div>
 
 <!--
