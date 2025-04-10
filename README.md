@@ -17,10 +17,8 @@ const karson = {
 }
 ```
 <!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrispyKreme8085&show_icons=true&theme=dracula)
--->
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrispyKreme8085&count_private=true&langs_count=8&layout=compact)
+-->
 
 <p>Connect With Me:</p>
 
