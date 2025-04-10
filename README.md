@@ -25,7 +25,7 @@ const karson = {
   <img
     src="https://github.com/user-attachments/assets/2b173ddc-2bdb-4bdc-be83-a876083ceefc"
     alt="LinkedIn"
-    style={{ width: "40px", height: "40px", marginRight: "10px" }}
+    style={{ width: "10px", height: "10px", marginRight: "10px" }}
   />
 </div>
 
