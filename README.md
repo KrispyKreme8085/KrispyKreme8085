@@ -27,10 +27,10 @@ const karson = {
 
 <p>Connect With Me:</p>
 <p style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://www.linkedin.com/in/karson-mellott-839930327/" target="linkedin">
+  <a style="padding-right: 10px;" href="https://www.linkedin.com/in/karson-mellott-839930327/" target="linkedin">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:karson.mellott@fhnw.edu" target="gmail">
+  <a style="padding-right: 10px;" href="mailto:karson.mellott@fhnw.edu" target="gmail">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
