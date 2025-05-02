@@ -30,6 +30,9 @@ const karson = {
   <a href="https://www.linkedin.com/in/karson-mellott-839930327/" target="linkedin">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <a href="mailto:karson.mellott@fhnw.edu" target="gmail">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 
