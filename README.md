@@ -4,7 +4,7 @@
 
 <br />
 
-<p>I am an aspiring first-year student learning SwiftUI and full-stack development like MERN (MongoDB, Express, React, NodeJS). I am certified in SwiftUI and enjoy using SwiftUI, NextJS, and Express. I am currently learning other coding languages like Solidity and Typescript JSX.</p>
+<p>I am an aspiring second-year student learning SwiftUI and full-stack development like MERN (MongoDB, Express, React, NodeJS). I am certified in SwiftUI and enjoy using SwiftUI, NextJS, and Express. I am currently learning other coding languages like Solidity and Typescript JSX.</p>
 
 <br />
 
